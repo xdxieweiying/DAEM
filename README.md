@@ -1,7 +1,8 @@
 # DAEM-Toward-Stable-Interpretable-and-Lightweight-Hyperspectral-Super-resolution
 **Abstract：** <br />
 **Code & Model:** https://github.com/WenjinGuo/DAEM <br />
-**Paper:** https://github.com/users/xdxieweiying/projects/url
+**Paper:** https://github.com/users/xdxieweiying/projects/url<br />
+<br />
 If our code is helpful to you, please cite:
 ```
 @inproceedings{guo,
